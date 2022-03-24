@@ -1,2 +1,3 @@
-# zhangyichen1
-这是个测试，上课用的hh
+# zhangyichen
+Battle ship游戏，摆放不能超出边界哦
+
